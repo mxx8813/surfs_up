@@ -8,8 +8,8 @@ An investor is interested in opening an ice cream shop business in Oahu. In this
 
 <img width="138" alt="june_temp_df" src="https://user-images.githubusercontent.com/100495799/173261109-8ea83b8a-ecf3-452c-a042-9e485a1db7d9.png">. <img width="173" alt="december_temps_df" src="https://user-images.githubusercontent.com/100495799/173261134-6db7463d-b718-4813-83d8-7bca0ebcd374.png">
 
-1. Average temps in Oahu does not fluctate dramatically throughout the year.
-2. Average temps in June vs December only varies about 4 degrees fahrenheit, at 75 degrees and 71 degrees respectively.
+1. Average temps in Oahu do not fluctate dramatically throughout the year.
+2. Average temps in June vs December only vary about 4 degrees fahrenheit, at 75 degrees and 71 degrees respectively.
 3. The min and max temperature also are similar in June and december.
 
 ## Summary
